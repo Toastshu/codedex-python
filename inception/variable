@@ -1,0 +1,5 @@
+#variable = acts like a container which stores value ( string, integer, float ) 
+for eg:
+first_name="Ashutosh"
+print(first_name)
+the output will be "Ashutosh"; as it stores my name which is string value. 
