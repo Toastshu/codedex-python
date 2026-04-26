@@ -3,3 +3,8 @@ for eg:
 first_name="Ashutosh"
 print(first_name)
 the output will be "Ashutosh"; as it stores my name which is string value. 
+
+I can also print this in different formats too 
+for eg:
+print(f"My name is {first_name}")
+here f represents format also known as formatted string so I can print out with 
