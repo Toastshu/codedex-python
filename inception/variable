@@ -46,5 +46,21 @@ am_single= True
 print(f"Am I single?: {am_single}, I have been single since the day I was born.")
   Am I single?: True, I have been single since the day I was born.
 
+#confession time
+crush="Mikasa"
+first_name="Eren"
+print(f"Bro, I have a crush on {crush} since 2 years, should I confess my feelings to her?")
+print(f"Definitely {first_name}, you should confess your feelings to {crush}.")
+print(f"Do you think {crush} will accept me?")
+will_accept_me= True
+if will_accept_me:
+    print(f"Yes ofc {first_name} she will accept you, you are a great guy and {crush} is lucky to have you.")
+else:
+    print(f"No, you are navie for her, {first_name}")
+  Bro, I have a crush on Mikasa since 2 years, should I confess my feelings to her?
+  Definitely Eren, you should confess your feelings to Mikasa.
+  Do you think Mikasa will accept me?
+  Yes ofc Eren she will accept you, you are a great guy and Mikasa is lucky to have you.
+
 
     
