@@ -32,3 +32,19 @@ Eren is 19 years old
 <class 'int'>
 191
 <class 'str'>
+
+
+
+# input function asks for the input from the user
+
+name = input("What is your name?:")
+print(f"Hello {name}")
+age = int(input("What is your age?:"))
+age= age +1
+print(f"You are {age} years old")
+
+Output:
+What is your name?:Ashutosh
+Hello Ashutosh
+What is your age?:19
+You are 20 years old
