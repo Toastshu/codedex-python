@@ -10,8 +10,8 @@ print(f"My name is {first_name}")
 here f represents format also known as formatted string so I can print out with 
 
 mail="erenyegr@icloud.com"
-print(f"Here is the mnail id: {mail} of {first_name}")
-Output: Here is the mnail id: erenyegr@icloud.com of Ashutosh
+print(f"Here is the mail id: {mail} of {first_name}")
+Output: Here is the mail id: erenyegr@icloud.com of Ashutosh
 in order to be string it should be in quotes ( " " ); otherwise it will be integers
 
 I had some fun with this too...haha :>
